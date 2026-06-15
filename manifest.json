@@ -1,0 +1,27 @@
+{
+  "name": "UPSC Study Atlas — India 1498–1947",
+  "short_name": "UPSC Atlas",
+  "description": "Interactive historical map of India with AI study assistant, notes library, and quiz generator for UPSC GS1 preparation.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#1a0a00",
+  "theme_color": "#b18425",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "productivity"],
+  "screenshots": [],
+  "prefer_related_applications": false
+}
